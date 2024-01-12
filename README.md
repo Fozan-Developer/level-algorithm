@@ -1,16 +1,12 @@
-<h1 align="center">⭐️ Level Algorithm</h1>
-
-<div align="center">
+# ⭐️ Level Algorithm
 
 [![npm package](https://img.shields.io/npm/v/@mr_fozan/json.db?logo=npm&style=flat-square)](https://www.npmjs.org/package/@mr_fozan/json.db)
 
 **Level Algorithm — это мощный модуль [Node.js](https://npmjs.com), который позволяет легко взаимодействовать с системой уровней.**
 
-</div>
-
 ## 📦 Установка
 
-**GIT**
+### GIT
 
 ```sh
 https://github.com/Fozan-Developer/level-algorithm.git
@@ -72,4 +68,4 @@ const getExp = Level.calculateExperienceProgress(level, exp);
 
 ## Лицензия
 
-**The MIT License (MIT)**
+### The MIT License (MIT)
