@@ -33,7 +33,7 @@ console.log(`Current level: ${currentLevel}`);
 
 ## Documentation
 
-For detailed usage instructions and API documentation, please visit Full Documentation.
+For detailed usage instructions and API documentation, please visit [Full Documentation](https://fozan.gitbook.io/level).
 
 ## License
 
