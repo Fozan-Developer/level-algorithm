@@ -1,7 +1,7 @@
 {
-  "name": "level_algorithm",
+  "name": "@mr_fozan/level",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\">⭐️ Level Algorithm</h1>",
+  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -9,7 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "Mr_Fozan",
   "license": "ISC"
 }
