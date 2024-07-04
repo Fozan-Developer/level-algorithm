@@ -20,15 +20,6 @@ const levelAlgorithm = new LevelAlgorithm({
   baseExperience: 100,
   experienceMultiplier: 1.5
 });
-
-// Calculate level based on experience
-const currentExperience = 350;
-const currentLevel = levelAlgorithm.calculateLevel({
-  experience: currentExperience,
-  baseExperience: levelAlgorithm.baseExperience,
-  experienceMultiplier: levelAlgorithm.experienceMultiplier
-});
-console.log(`Current level: ${currentLevel}`);
 ```
 
 ## Documentation
