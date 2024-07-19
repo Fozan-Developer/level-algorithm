@@ -1,6 +1,6 @@
 {
   "name": "level-algorithm",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -9,6 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fozan-Developer/level-algorithm.git"
+  },
   "author": "Mr_Fozan",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fozan-Developer/level-algorithm/issues"
+  },
+  "homepage": "https://fozan.gitbook.io/level/"
 }
